@@ -1,0 +1,93 @@
+Course Title: Python Code Challenges 
+
+Description: Want to test your Python skills? These concise challenges let you stretch your brain and test your talents. Instructor Barron Stone shares over a dozen Python challenges, as well as his own solutions to each problem—the majority of which are less than two dozen lines of code. You can tackle each problem using the tools in the Python standard library, or opt for the library of your choice. And since each challenge is self-contained, you can complete the course in any order—and at your own pace. Tune in to get the hands-on practice you need to keep your skills sharp.
+
+
+***********************************************
+Chapter: 1. Challenges
+***********************************************
+
+
+-----------------------------------------------
+Video: Identify a palindrome
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:57            List slicing with stride       
+
+
+-----------------------------------------------
+Video: Find all list items
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:11            Recursive list search          
+
+
+-----------------------------------------------
+Video: Play the waiting game
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:05            String formatting              
+
+0:01:18            time module, perf_counter() function 
+
+
+-----------------------------------------------
+Video: Save a dictionary
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:36            pickle module                  
+
+
+-----------------------------------------------
+Video: Set an alarm
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:50            sched module is a general purpose event scheduler 
+
+0:01:31            sched module                   
+
+
+-----------------------------------------------
+Video: Count unique words
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:02:17            Fast dicts with Counter()      
+
+
+-----------------------------------------------
+Video: Merge CSV files
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:40            List extend method             
+
+
+-----------------------------------------------
+Video: Solve a Sudoku
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:02:28            Assignment operator            
+
+
+-----------------------------------------------
+Video: Build a ZIP archive
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:02:28            arcname maintains the folder structure 
+
+
+-----------------------------------------------
+Video: Download sequential files
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:02:53            try and except                 
+
